@@ -1,0 +1,7 @@
+D:\18.11.2289\TugasPolymorphism\TugasPolymorphism\obj\Debug\TugasPolymorphism.csprojAssemblyReference.cache
+D:\18.11.2289\TugasPolymorphism\TugasPolymorphism\obj\Debug\TugasPolymorphism.csproj.CoreCompileInputs.cache
+D:\18.11.2289\TugasPolymorphism\TugasPolymorphism\bin\Debug\TugasPolymorphism.exe.config
+D:\18.11.2289\TugasPolymorphism\TugasPolymorphism\bin\Debug\TugasPolymorphism.exe
+D:\18.11.2289\TugasPolymorphism\TugasPolymorphism\bin\Debug\TugasPolymorphism.pdb
+D:\18.11.2289\TugasPolymorphism\TugasPolymorphism\obj\Debug\TugasPolymorphism.exe
+D:\18.11.2289\TugasPolymorphism\TugasPolymorphism\obj\Debug\TugasPolymorphism.pdb
